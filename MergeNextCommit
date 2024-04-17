@@ -1,0 +1,2 @@
+error : detached head
+git push HEAD: refs/heads/origin/branchName
